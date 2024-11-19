@@ -24,3 +24,7 @@ Generated images from different timepoints during training are saved in the **`/
 | **Step 50000**         | **Step 60000**         | **Step 70000**         |
 |-------------------------|------------------------|-------------------------|
 | ![Step 50000](samples/generated_step_50000.png) | ![Step 60000](samples/generated_step_60000.png) | ![Step 70000](samples/generated_step_70000.png) |
+
+| **Step 80000**         | **Step 90000**         | **Step 100000**         |
+|-------------------------|------------------------|--------------------------|
+| ![Step 80000](samples/generated_step_80000.png) | ![Step 90000](samples/generated_step_90000.png) | ![Step 100000](samples/generated_step_100000.png) |
