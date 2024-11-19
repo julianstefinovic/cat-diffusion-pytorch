@@ -1,5 +1,5 @@
 # cat-diffusion-pytorch
-A simple PyTorch routine for training a diffusion model (includes ChatGPT-generated code)
+A simple PyTorch routine for training a diffusion model (includes ChatGPT-generated code). In this project, the dataset consists of 64x64 resolution images of cat faces. The model uses approximately 3.5GB of VRAM during training and was trained over a few days.
 
 ----
 
